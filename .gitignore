@@ -1,0 +1,8 @@
+*.pyc
+/.coverage
+/.venv/
+/.vscode/*
+!/.vscode/settings.json
+!/.vscode/extensions.json
+venv
+*build-commands.txt
