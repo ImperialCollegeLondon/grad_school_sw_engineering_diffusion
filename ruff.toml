@@ -1,0 +1,6 @@
+lint.select = [
+    "D",   # pydocstyle
+    "E",   # pycodestyle
+    "F",   # Pyflakes
+    "RUF", # ruff
+]
